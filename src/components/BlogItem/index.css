@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.one {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.li1 {
+  list-style: none;
+}
